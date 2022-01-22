@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmadtaquee" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadtaquee?logo=twitter&style=for-the-badge" alt="ahmadtaquee" /></a> </p>
 
-- 🔭 I’m currently working on [Thyroid Disease Detection project](https://github.com/ahmadtaquee/thyroid-classification-end_to_end-deployment)
+<!-- - 🔭 I’m currently working on [Thyroid Disease Detection project](https://github.com/ahmadtaquee/thyroid-classification-end_to_end-deployment) -->
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmadtaquee/](https://www.linkedin.com/in/ahmadtaquee/)
 
-- ⚡ Fun fact **I love to explore different types of fields.**
+- ⚡ Fun fact **I love to explore different fields.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
