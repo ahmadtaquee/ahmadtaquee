@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Ahmad Taquee</h1>
-<h3 align="center">A self-taught Data Scientist and a Serial Entrepreneur from INDIA.</h3>
+<!-- - <h3 align="center">A self-taught Data Scientist and a Serial Entrepreneur from INDIA.</h3>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadtaquee&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadtaquee" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahmadtaquee" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadtaquee?logo=twitter&style=for-the-badge" alt="ahmadtaquee" /></a> </p>
 
-<!-- - 🔭 I’m currently working on [Thyroid Disease Detection project](https://github.com/ahmadtaquee/thyroid-classification-end_to_end-deployment) -->
+<!-- - 🔭 I’m currently working on [Thyroid Disease Detection project](https://github.com/ahmadtaquee/thyroid-classification-end_to_end-deployment)
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Deep Learning**  -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadtaquee](https://github.com/ahmadtaquee)
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **taquee.ahmad7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmadtaquee/](https://www.linkedin.com/in/ahmadtaquee/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-taquee/](https://www.linkedin.com/in/ahmad-taquee/)
 
-- ⚡ Fun fact **I love to explore different fields.**
+- ⚡ Fun fact **I love to explore different fields and places.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
