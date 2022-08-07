@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadtaquee](https://github.com/ahmadtaquee)
 
-- 💬 Ask me about **Data Science, Serial Entrepreneur, Health & Wellness, HealthTech**
+- 💬 Ask me about **UX/UI Design, Data, Serial Entrepreneur, Health & Wellness, HealthTech**
 
 - 📫 How to reach me **taquee.ahmad7@gmail.com**
 
