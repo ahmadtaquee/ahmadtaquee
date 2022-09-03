@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **taquee.ahmad7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-taquee/](https://www.linkedin.com/in/ahmad-taquee/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmadtaquee/](https://www.linkedin.com/in/ahmadtaquee/)
 
 - ⚡ Fun fact **I love to explore different fields and places.**
 
